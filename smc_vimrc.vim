@@ -8,7 +8,6 @@ set cursorline
 set showmatch
 set hlsearch
 set showmode
-set backup
 set mouse=a
 let python_highlight_all=1
 
