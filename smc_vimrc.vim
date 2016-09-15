@@ -12,7 +12,7 @@ set backup
 set mouse=a
 let python_highlight_all=1
 
-autocmd FileType make setlocal noexpandtab
+autocmd FileType make setlocal noexpandtab softtabstop=0
 
 execute pathogen#infect()
 execute pathogen#helptags()
