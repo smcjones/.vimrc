@@ -8,3 +8,4 @@ cd ~/.vim/bundle
 git clone https://github.com/joonty/vdebug.git
 git clone https://github.com/vim-scripts/vim-misc.git
 git clone https://github.com/ap/vim-buftabline.git
+git clone https://github.com/lumiliet/vim-twig
