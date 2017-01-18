@@ -11,6 +11,13 @@ set showmode
 set mouse=a
 let python_highlight_all=1
 
+" Persistent undo
+try 
+    set undodir=/tmp/
+    set undofile
+catch
+endtry
+
 autocmd FileType make setlocal noexpandtab softtabstop=0
 
 execute pathogen#infect()
