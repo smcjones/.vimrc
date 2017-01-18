@@ -12,3 +12,4 @@ git clone https://github.com/tpope/vim-surround
 git clone https://github.com/Shougo/vimshell.vim
 git clone https://github.com/Shougo/vimproc.vim
 git clone https://github.com/vim-scripts/Rename
+git clone https://github.com/lumiliet/vim-twig
